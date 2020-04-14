@@ -18,6 +18,7 @@ public class GitTest {
     public void test1(){
         int a;
         int b;
+        int c;
         
     }
 }
