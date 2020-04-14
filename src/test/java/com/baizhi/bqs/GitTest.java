@@ -14,4 +14,10 @@ public class GitTest {
 
         
     }
+     @Test
+    public void test1(){
+        int a;
+        int b;
+        
+    }
 }
