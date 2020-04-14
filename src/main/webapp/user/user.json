@@ -1,0 +1,56 @@
+{
+  "total": "3",
+  "records": "9",
+  "page": "1",
+  "rows": [
+    {
+      "id": "1",
+
+      "username": "小鸡蛋",
+
+      "phone": "123456789",
+
+      "headImg": "1.jpg",
+
+      "sign": "这是一个好同志",
+
+      "wechat": "123456789",
+
+      "status": "1",
+
+      "createDate": "2012-12-12"
+    },{
+      "id": "2",
+
+      "username": "小鸡蛋2",
+
+      "phone": "123456789",
+
+      "headImg": "pic2.jpg",
+
+      "sign": "这是一个好同志",
+
+      "wechat": "123456789",
+
+      "status": "0",
+
+      "createDate": "2012-12-12"
+    },{
+      "id": "3",
+
+      "username": "小鸡蛋3",
+
+      "phone": "123456789",
+
+      "headImg": "3.jpg",
+
+      "sign": "这是一个好同志",
+
+      "wechat": "123456789",
+
+      "status": "1",
+
+      "createDate": "2012-12-12"
+    }
+  ]
+}
